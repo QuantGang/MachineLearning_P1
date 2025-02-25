@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+In this ML session we treat topics such as polynomial and spline regression, regularisation, cross-validation, regression and decision trees, and classification methods. Here we consider modelling the number of rides each hour for a bike rental company.
